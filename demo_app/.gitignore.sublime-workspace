@@ -1,0 +1,223 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"mi",
+				"micropost"
+			],
+			[
+				"fin",
+				"find_each"
+			],
+			[
+				"do",
+				"dob	Insert do |variable| … end"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/blej_test/lab01/ex1.html",
+			"settings":
+			{
+				"buffer_size": 89,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Blej Ruby/He thong thong tin tren web/Ruby tuan 2/demo_app/app/views/microposts/_form.html.erb",
+		"/D/Blej Ruby/He thong thong tin tren web/Ruby tuan 2/demo_app/app/views/users/index.html.erb",
+		"/D/Blej Ruby/He thong thong tin tren web/Ruby tuan 2/demo_app/app/models/user.rb",
+		"/D/Blej Ruby/He thong thong tin tren web/Ruby tuan 2/demo_app/app/models/micropost.rb",
+		"/D/Blej Ruby/He thong thong tin tren web/Ruby tuan 2/demo_app/app/views/users/show.html.erb",
+		"/C/Users/Blej/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/Blej Ruby/He thong thong tin tren web/Ruby tuan 2/demo_app/app/views/users/new.html.erb",
+		"/D/Blej Ruby/He thong thong tin tren web/Ruby tuan 2/demo_app/app/views/users/_form.html.erb",
+		"/D/Blej Ruby/He thong thong tin tren web/Ruby tuan 2/demo_app/app/views/microposts/show.html.erb",
+		"/D/Blej Ruby/He thong thong tin tren web/Ruby tuan 2/demo_app/config/routes.rb",
+		"/D/Blej Ruby/He thong thong tin tren web/Ruby tuan 2/demo_app/app/views/microposts/index.html.erb",
+		"/D/Blej Ruby/He thong thong tin tren web/Ruby tuan 2/demo_app/app/views/microposts/new.html.erb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/blej_test/lab01/ex1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": ".gitignore.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
